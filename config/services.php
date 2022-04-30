@@ -34,7 +34,7 @@ return [
     'google' => [
         'client_id' => '860165685480-bqn5g2c3eabglkkv2s5ccte7lks9rtpl.apps.googleusercontent.com', //USE FROM Google DEVELOPER ACCOUNT
         'client_secret' => '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', //USE FROM Google DEVELOPER ACCOUNT
-        'redirect' => 'https://0a41-106-212-124-50.ngrok.io/google/callback/'
+        'redirect' => 'http://127.0.0.1:8000/google/callback'
 ],
 
 ];
